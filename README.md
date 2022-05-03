@@ -1,6 +1,7 @@
 # Management_Bidirectional_Automation (MBA)
 
 Automatic management for project  
+Inspired by iCEO software [1]
 
 Step 1: Receive input  
 Step 2: Initial assessment  
@@ -24,4 +25,7 @@ Output
 &nbsp;&nbsp; Time scheduling  
 &nbsp;&nbsp; Budgeting  
 
+
+## Reference  
+[1] [Here’s How Managers Can Be Replaced by Software](https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software)  by Devin Fidler, Harvard Business Review  April 21, 2015 
 
